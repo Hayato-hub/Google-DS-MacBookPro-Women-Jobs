@@ -8,6 +8,19 @@
         <link href="{{ secure_asset('css/install.css') }}" rel="stylesheet">
         <!--自動遷移設定-->
         <meta http-equiv="refresh" content=" 1; url=https://a-trade.jp/redirect/popo?media=G16531">
+        <!-- Global site tag (gtag.js) - Google Ads: 773762041 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-773762041"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'AW-773762041');
+        </script>
+        <!-- Event snippet for ページビュー conversion page -->
+        <script>
+            gtag('event', 'conversion', {'send_to': 'AW-773762041/AFhBCO2DmNQBEPnX-vAC'});
+        </script>
     </head>
     <body>
         <br>

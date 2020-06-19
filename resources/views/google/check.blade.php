@@ -7,6 +7,15 @@
         <title>公式ページへ移動中</title>
         <link href="{{ secure_asset('css/check.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+        <!-- Global site tag (gtag.js) - Google Ads: 773762041 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-773762041"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'AW-773762041');
+        </script>
     </head>
     <body>
         <br>
