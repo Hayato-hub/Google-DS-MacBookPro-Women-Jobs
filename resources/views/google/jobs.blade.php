@@ -10,7 +10,7 @@
     </head>
     <body>
         <header>
-            <h1>Peachy</h1>
+            <h1>Pechay</h1>
         </header>
         
         <div class="big-body">
