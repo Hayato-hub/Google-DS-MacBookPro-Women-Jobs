@@ -1,14 +1,112 @@
 body {
-    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
-    background-color: #FF69A3;
+    background-color: white;
+}
+
+header h1 {
+    text-align: center;
+    color: grey;
+    font-family: cursive;
+    font-size: 1.2rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 0.1rem solid grey;
 }
 
 img {
     width: 100%;
 }
 
-span {
-    font-size: 2rem;
+.contents {
+    width: 50%;
+    padding-left: 2.5rem;
+}
+
+.big-body {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+.busy-h1 {
+  position: relative;
+  padding: 0.6em;
+  /*background: #e0edff;*/
+  background: #FFCCFF;
+  font-size: 1.2rem;
+  color: #444444;
+}
+
+.busy-h1:after {
+  position: absolute;
+  content: '';
+  top: 100%;
+  left: 30px;
+  border: 15px solid transparent;
+  /*border-top: 15px solid #e0edff;*/
+  border-top: 15px solid #FFCCFF;
+  width: 0;
+  height: 0;
+}
+
+.busy-h3 {
+  padding: 0.25em 0.5em;/*上下 左右の余白*/
+  color: #494949;
+  background: transparent;/*背景透明に*/
+  border-left: solid 5px #FFCCFF;/*左線*/
+  font-size: 0.8rem;
+}
+
+.busy-h3-span {
+    color: #FF5192;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.main p {
+    font-weight: bold;
+    font-size: 0.7rem;
+}
+
+.main-p-span {
+    color: red;
+    font-weight: bold;
+}
+
+.main-h1 {
+    font-size: 1.2rem;
+    margin-top: -0.5rem;
+}
+
+.main-p-sub {
+    margin-top: -0.2rem;
+}
+
+.body-h1 {
+    font-size: 1.2rem;
+    padding-top: 1rem;
+}
+
+.body-p {
+    color: #555555;
+    font-size: 0.7rem;
+    margin-top: -0.5rem;
+}
+
+.headline {
+  color: #444444;
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #FFCCFF;
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  font-size: 1.2rem;
+  margin-bottom: -0.5rem;
+}
+
+.headline:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
 }
 
 .button {
@@ -19,139 +117,37 @@ span {
   display: inline-block;
   padding: 0.5em 1em;
   text-decoration: none;
-  background: #FF367F;/*ボタン色*/
+  background: #EE0000;/*ボタン色*/
   color: #FFF;
   font-weight: bold;
-  border-bottom: solid 4px #CCCCCC;
+  border-bottom: solid 4px #BBBBBB;
   border-radius: 3px;
 }
 
-.body-1 {
-    background-color: white;
-    padding-bottom: 1rem;
-}
-
-.body-1 h3 {
-    font-weight: bold;
-    color: #FF367F;
-    text-align: center;
-    margin-top: -0.3rem;
-}
-
-.body-button {
-    margin-top: -0.3rem;
-}
-
-.body-1 p {
-    font-weight: bold;
-    color: #FF367F;
-    text-align: center;
-    font-size: 0.8rem;
-}
-
-.body-2 {
-    background-color: #FF69A3;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-.body-2-h1 {
-    color: white;
-    text-align: center;
-    font-size: 1.5rem;
-}
-
-.body-2 p {
-    font-weight: bold;
-    color: white;
-    text-align: center;
-    font-size: 0.8rem;
-}
-
-.body-3 {
-    background-color: white;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-.body-3-h1 {
-    color:  #FF367F;
-    text-align: center;
-    font-size: 1.5rem;
-}
-
-.body-3 li {
-    color:  grey;
+.body-p-span {
+    color: red;
     font-weight: bold;
 }
 
-.body-3-p {
-    font-weight: bold;
-    color: #FF367F;
-    text-align: center;
-    font-size: 0.8rem;
-}
-
-.grey {
-    font-weight: bold;
-    color: grey;
-    text-align: center;
-    font-size: 0.8rem;
-}
-
-.body-4 {
-    background-color: #FF69A3;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-.body-4-h1 {
-    color: white;
-    text-align: center;
-    font-size: 1.5rem;
-}
-
-.body-4-h2 {
-  color: #505050;/*文字色*/
-  padding: 0.5em;/*文字周りの余白*/
-  display: inline-block;/*おまじない*/
-  line-height: 1.3;/*行高*/
-  background: #dbebf8;/*背景色*/
-  vertical-align: middle;
-  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
-  font-size: 1.2rem;
-}
-
-.body-4-h2:before {
-  content: '●';
-  color: white;
-  margin-right: 8px;
-}
-
-.body-4-p {
-    font-weight: bold;
-    color: white;
+.button-p {
+    color: #555555;
     font-size: 0.7rem;
-    padding-right: 1.8rem;
-    padding-left: 1.8rem;
-    margin-top: -0.5rem;
+    margin-top: -1.5rem;
+    text-align: left;
 }
 
-.body-5 {
-    background-color: white;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+.footer-pic {
+    width: 95%;
 }
 
-.body-5-p {
-    font-weight: bold;
-    color: #FF69A3;
-    font-size: 1.5rem;
+footer {
     text-align: center;
+    color: grey;
     font-family: cursive;
+    font-size: 0.8rem;
 }
 
-.body-5-span {
+.footer-h1 {
     color: grey;
     text-align: center;
     font-size: 0.3rem;
