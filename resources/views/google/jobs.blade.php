@@ -21,7 +21,7 @@
                 <!--忙しい人向け見出し-->
                 <div class="busy">
                     <h1 class="busy-h1">【期間限定】忙しい人向け <i class="far fa-hand-point-up"></i></h1>
-                    <h3 class="busy-h3">3日で10万円可能!? <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">付き添いバイト専用アプリ！</span><br>知らない人と会うのが怖いなら <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">チャットや電話でOK！時給4000円超え！</span><br>スキマ時間を有効活用出来るから掛け持ちに最適！<br>そんな求人が <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">期間限定 - 新規女性募集！</span><br>一部SNSで秘密裏に話題に...!</h3>
+                    <h3 class="busy-h3">3日で10万円可能!? <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">付き添いバイト専用アプリ！</span><br>知らない人と会うのが怖いなら <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">チャットや電話でOK！<br>時給4000円超え！</span><br>スキマ時間を有効活用出来るから掛け持ちに最適！<br>そんな求人が <i class="far fa-hand-point-down"></i><br><span class="busy-h3-span">期間限定 - 新規女性募集！</span><br>一部SNSで秘密裏に話題に...!</h3>
                 </div>
                 <br>
                 <img src="{{ asset('image/lp_job_top.jpg') }}"></img>
