@@ -21,15 +21,15 @@ Route::get('dl', function () {
     return view('google.dl'); //自動遷移LP。ココに案件タグを設置
 });
 
-//モア-DL
+//PoPo-DL　／　旧：モア-DL
 Route::get('install', function () {
     return view('google.install'); //自動遷移LP。ココに案件タグを設置
 });
 
-//ライブでゴーゴー-web登録
-Route::get('register', function () {
-    return view('google.register'); //自動遷移LP。ココに案件タグを設置
-});
+// //ライブでゴーゴー-web登録
+// Route::get('register', function () {
+//     return view('google.register'); //自動遷移LP。ココに案件タグを設置
+// });
 
 // LP確認用
 Route::get('cccheck', function () {
