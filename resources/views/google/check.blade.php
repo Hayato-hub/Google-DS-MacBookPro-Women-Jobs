@@ -10,10 +10,11 @@
     </head>
     <body>
         <br>
+        <img src="{{ asset('image/rectop.jpg') }}"></img>
         <br>
-        <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
         <div class="button">
-                <a href="https://townwork.net/" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://renkano-princess.com/recruit" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
         </div>
+        <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
     </body>
 </html>
