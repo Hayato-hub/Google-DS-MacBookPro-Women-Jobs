@@ -80,6 +80,12 @@
                     <a href="./dl" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
                 <br>
+                <div class="up-arrow">
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                </div>
+                <img src="{{ asset('image/text_sorry_app.jpg') }}"></img>
+                <br>
+                <br>
                 <div class="button-p">
                     <p>百聞は一見に如かず。無料インストールして使ってみるのが一番早い。<br><span class="body-p-span">AppStore上ではマッチングアプリとして登録されてます！が、実際は...。</p>
                 </div>
@@ -94,6 +100,12 @@
                 <div class="button">
                     <a href="./install" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式ページへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
+                <br>
+                <div class="up-arrow">
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                </div>
+                <img src="{{ asset('image/text_sorry.jpg') }}"></img>
+                <br>
                 <br>
                 <div class="button-p">
                     <p>これなら<span class="body-p-span">付き添いバイトと違って自宅で会わずにお小遣い稼ぎ出来ます！</span><br>コチラも詳しい使い方は専用アプリ内をCHECK！</p>
