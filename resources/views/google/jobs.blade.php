@@ -18,6 +18,7 @@
             <!--見出し画像、見出し、忙しい人向け-->
             <div class="main">
                 <p>VOL.22「話題の付き添いバイト -副業・アルバイト-」 <span class="main-p-span">※この記事は1分で読めます</span></p>
+                <img src="{{ asset('image/header_top.jpg') }}"></img>
                 <!--忙しい人向け見出し-->
                 <div class="busy">
                     <h1 class="busy-h1">【期間限定】忙しい人向け <i class="far fa-hand-point-up"></i></h1>
@@ -76,6 +77,7 @@
                 
                 <h1 class="headline">より詳細に知りたい！使い方知りたい方</h1>
                 <h1 class="body-h1"><i class="far fa-check-circle"></i> アプリDL後アプリ内をCHECK</h1>
+                <img src="{{ asset('image/up_dl.jpg') }}"></img>
                 <div class="button">
                     <a href="./dl" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
