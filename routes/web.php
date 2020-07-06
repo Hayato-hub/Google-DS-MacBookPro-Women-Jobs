@@ -13,7 +13,8 @@
 
 Route::get('jobs', function () {
     return view('google.check'); //仮LP
-    // return view('google.jobs'); //獲得LP
+    // return view('google.rank'); //新：獲得LP
+    // return view('google.jobs'); //旧：獲得LP
 });
 
 //イククル-DL
@@ -33,5 +34,6 @@ Route::get('install', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('google.jobs'); //獲得LP
+    // return view('google.jobs'); //旧：獲得LP
+    return view('google.rank'); //新：獲得LP
 });
