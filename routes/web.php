@@ -12,8 +12,8 @@
 */
 
 Route::get('jobs', function () {
-    return view('google.check'); //仮LP
-    // return view('google.rank'); //新：獲得LP
+    // return view('google.check'); //仮LP
+    return view('google.rank'); //新：獲得LP
     // return view('google.jobs'); //旧：獲得LP
 });
 
