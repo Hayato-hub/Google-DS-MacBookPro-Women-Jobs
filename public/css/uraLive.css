@@ -32,6 +32,7 @@ header p {
 /*body-top*/
 .body-top {
     text-align: center;
+    padding: 0 1em;
 }
 
 .body-top h1 {
@@ -48,7 +49,7 @@ header p {
 
 .body-top p {
     margin-top: -0.3em;
-    font-size: 0.9em;
+    font-size: 0.7em;
 }
 
 /*body-main*/
@@ -85,11 +86,12 @@ header p {
 
 .body-main-3 p {
     color: grey;
+    font-size: 0.8em;
 }
 
 .body-main-3 span {
     color: blue;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .body-main-3 .line {
@@ -99,6 +101,7 @@ header p {
 /*ad*/
 .ad {
     text-align: center;
+    padding: 0 1em;
 }
 
 .ad h1 {
