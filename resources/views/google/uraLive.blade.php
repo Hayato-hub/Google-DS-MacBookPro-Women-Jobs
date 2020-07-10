@@ -70,7 +70,7 @@
                 <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>
                 <a href="https://a-trade.jp/redirect/nijikano?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/niji_600x500_001.jpg"></a>
                 <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>
-                <p><span>まずゲームユーザー登録して詳細を確認せよ！</span></p>
+                <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>
             </div>
             <br>
         </div>
