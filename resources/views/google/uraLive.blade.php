@@ -17,6 +17,7 @@
             <div class="body-top">
                 <h1><span>承認欲求の塊！割とガチでえぐいw<br>裏垢女子がこぞって脱いでオナ電・生オナ配信してるwww</span></h1>
                 <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
+                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                 <p>生配信のスクショ! IDで検索すれば過去配信閲覧できるでー</p>
             </div>
             
@@ -55,7 +56,8 @@
                     <br>
                     <br>
                     <h3>リンク切れになってたらスマン！！まだリンク生きてたら削除前に急げよ！！！</h3>
-                    <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/fatey</p></span></p></a>
+                    <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                    <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/fatey</p></span></p></a>-->
                     <img src="{{ asset('image/uraLive_6.jpg') }}">
                     <p>↑これな！</p>
                     <br>
