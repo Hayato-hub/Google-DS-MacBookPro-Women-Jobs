@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('matome', function () {
-    // return view('google.check'); //確認用LP
-    return view('google.uraLive'); //獲得LP(1)
+    return view('google.check'); //確認用LP
+    // return view('google.uraLive'); //獲得LP(1)
 });
 
 // LP確認用
