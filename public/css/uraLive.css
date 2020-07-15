@@ -8,6 +8,10 @@ img {
     width: 80%;
 }
 
+.wide {
+    width: 100%;
+}
+
 /*ボタン*/
 .btn-square-shadow {
   display: inline-block;
