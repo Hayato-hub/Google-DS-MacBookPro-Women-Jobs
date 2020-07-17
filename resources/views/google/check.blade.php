@@ -10,7 +10,7 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/renta.png') }}"></img>
-        <p>公式AppStoreへ遷移します。再度<a href="https://apps.apple.com/jp/app/renta-reader/id455940557">コチラ</a>をタップして下さい。</p>
+        <img src="{{ asset('image/mecha.png') }}"></img>
+        <p>公式AppStoreへ遷移します。再度<a href="https://sp.comics.mecha.cc/">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
