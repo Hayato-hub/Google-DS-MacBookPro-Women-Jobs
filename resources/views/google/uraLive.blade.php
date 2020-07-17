@@ -40,33 +40,33 @@
                 <div class="body-main-3">
                     <h3>生配信がエグい！マンコまる見えだし清楚系からギャル、カップル配信も・・・</h3>
                     <p>正直、ほんまにエグい。Pornhubとか他のアダルトサイトが全然かわいいくらいリアルな配信。むっちゃ興奮する。<br><br>だって、普通にTikTokとかあげてる子がエロ配信してるねんで？それも丸出しで。<br><br>最近はカップルちゃんねるもエロ配信始めたとか話題になって、、、まじで規制前の今だから盛り上がってる感じ！</p>
-                    <br>
+                    <!--<br>-->
                     <h3>オナ電で相互オナ・見せ合いもイケる！電話セックスってまじで興奮するからやってみて！</h3>
                     <p>気になる女の子見つけたらオナ電誘ってみて！そうゆう目的のユーザーしかおらんから、返信くれればだいたいいける！<br><br>カメラ越しの映像とかまじで最高！普通に黙ってスクショしちゃったわwww</p>
                     <img src="{{ asset('image/uraLive_3.JPG') }}">
-                    <br>
+                    <!--<br>-->
                     <br>
                     <h3>男同士で情報交換できるのもでかい！おすすめ紹介は勿論、ヤレる女情報とかもありがたいwww</h3>
                     <p>基本ここを使ってる男性はエロ界隈に詳しい人が多いから、ヤレる女とかセフレ交換とかの情報も熱い！<br><br>大都市は勿論、俺が住んでる奈良とか地方都市の情報もあるのでありがたい。。。女の子のTwitter ID載せてくれるしまじで使えるwww<br><br>Tinderで頑張って女引っ掛けてたのがバカらしいわwww</p>
-                    <br>
+                    <!--<br>-->
                     <h3>最近使い過ぎてデータフォルダがやばい件wwwww</h3>
                     <img src="{{ asset('image/uraLive_4.JPG') }}">
                     <p>配信動画保存してたらまじでこうなるから気をつけてwww<br><br>ここはJC・JKゾーンだけど他にもギャル、美魔女、カップル系も！Twitterに流したら自分のフォロワー増える?かもなwww</p>
-                    <br>
+                    <!--<br>-->
                     <h3>使い方は簡単！TwitterとかYouTube使えてたら分かるはず！</h3>
                     <p>TwitterみたいにIDで検索して女の子探したり、YouTubeみたいにキーワード検索してライブ配信や過去配信見たりって感じ！まー若者なら分かるっしょw</p>
-                    <br>
+                    <!--<br>-->
                     <h3>使うのは無料！だけど、いつ規制されてサービス停止されるか分からない！</h3>
                     <p>ぶっちゃけまじで無法地帯だからいつ規制されてもおかしくない！でもまー立ち位置的には普通のSNSだし使うにあたって身分提示するような事もないし、何かあっても身バレしないのはデカイかな！<br><br>まー不安な人はやめといたほうがいいかもだけど、それでもまじで刺激的過ぎるからそっちの方が要注意かも！普通のAVじゃ満足しなくなるwww</p>
                     <img src="{{ asset('image/uraLive_5.jpg') }}">
-                    <br>
+                    <!--<br>-->
                     <br>
                     <h3>リンク切れになってたらスマン！！まだリンク生きてたら削除前に急げよ！！！</h3>
                     <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                     <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/fatey</p></span></p></a>-->
                     <img src="{{ asset('image/uraLive_6.jpg') }}">
                     <p>↑これな！</p>
-                    <br>
+                    <!--<br>-->
                     <p>最後にちょっと宣伝！Twitterで裏系・エロ情報発信してこうと思うから、気になるやつはフォローしてやー！@adult_info_</p>
                     <br>
                     <div class="line"></div>
