@@ -15,12 +15,12 @@
         
         <div class="big-body">
             <div class="body-top">
-                <img src="{{ asset('image/newManga_cre1.JPG') }}" class="wide">
-                <img src="{{ asset('image/newManga_cre2.JPG') }}" class="wide">
-                <img src="{{ asset('image/newManga_cre3.JPG') }}" class="wide">
-                <img src="{{ asset('image/newManga_cre4.JPG') }}" class="wide">
-                <br>
-                <h1><span class="body-top-span">この続きはリアルで体験...!?<br><br><i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i></span></h1>
+                <!--<img src="{{ asset('image/newManga_cre1.JPG') }}" class="wide">-->
+                <!--<img src="{{ asset('image/newManga_cre2.JPG') }}" class="wide">-->
+                <!--<img src="{{ asset('image/newManga_cre3.JPG') }}" class="wide">-->
+                <!--<img src="{{ asset('image/newManga_cre4.JPG') }}" class="wide">-->
+                <!--<br>-->
+                <!--<h1><span class="body-top-span">この続きはリアルで体験...!?<br><br><i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i></span></h1>-->
                 <h1><span class="body-top-span">承認欲求の塊！割とガチでえぐいw<br>裏垢女子がこぞって脱いでオナ電・生オナ配信してるwww</span></h1>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
