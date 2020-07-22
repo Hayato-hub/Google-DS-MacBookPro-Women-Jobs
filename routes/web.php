@@ -14,10 +14,14 @@
 // LP獲得用
 Route::get('new', function () {
     return view('google.check'); //確認用LP
+    // return view('google.job'); //獲得LP(2)
+    
     // return view('google.uraLive'); //獲得LP(1)
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('google.uraLive'); //獲得LP(1)
+    return view('google.job'); //獲得LP(2)
+    
+    // return view('google.uraLive'); //獲得LP(1)
 });
