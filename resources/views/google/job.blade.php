@@ -62,7 +62,7 @@
                     <br>
                     <h3>アプリ内にある仕事詳細をCHECK <i class="fas fa-arrow-circle-up"></i></h3>
                     <br>
-                    <img src="{{ asset('image/sukiJob_ad.jpg') }}"></img>
+                    <img src="{{ asset('image/sukiJob_ad_2.jpg') }}"></img>
                     <p>これな↑</p>
                     <p class="red">※仕事詳細は【必ずアプリ内をCHECK】して下さい <i class="far fa-hand-point-up"></i></p>
                     <br>
