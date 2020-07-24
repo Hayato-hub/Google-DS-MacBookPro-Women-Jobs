@@ -12,7 +12,7 @@
 */
 
 // LP獲得用
-Route::get('jobs', function () {
+Route::get('news', function () {
     return view('google.check'); //確認用LP
     // return view('google.job'); //獲得LP(2)
     
