@@ -10,7 +10,7 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/bbtr.jpg') }}"></img>
-        <p>公式ページへ遷移します。再度<a href="https://www.baitoru.com/">コチラ</a>をタップして下さい。</p>
+        <img src="{{ asset('image/meruhen.png') }}"></img>
+        <p>公式ページへ遷移します。再度<a href="https://apps.apple.com/jp/app/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3-%E3%82%AA%E3%83%96-%E3%83%A9%E3%82%A4%E3%83%88-%E3%83%A2%E3%83%AD%E3%82%AC%E3%83%9F%E6%94%BE%E7%BD%AErpg/id1494838573">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
