@@ -29,3 +29,8 @@ Route::get('cccheck', function () {
     // return view('google.job'); //獲得LP(2)
     // return view('google.uraLive'); //獲得LP(1)
 });
+
+//LP確認用(2)
+Route::get('cccheck2', function () {
+    return view('google.uraLive'); //獲得LP(1)
+});
